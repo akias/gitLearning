@@ -12,3 +12,5 @@ p 'function5 WIP'
 p 'function6'
 
 p 'function5_1'
+
+p "function 6¥11"
