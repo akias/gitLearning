@@ -8,3 +8,5 @@ p 'function4'
 p 'fucntion4.1'
 
 p 'function5 WIP'
+
+p 'function6'
